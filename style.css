@@ -48,9 +48,9 @@ body {
 
 @keyframes slide {
     from {
-        left: 60px;
+        left: 25px;
     }
     to {
-        left: 260px;
+        left: 500px;
     }
 }
